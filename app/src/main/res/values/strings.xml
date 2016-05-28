@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Retrofit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="satu">Kamu berada di tab 1</string>
+    <string name="dua">Kamu berada di tab 2</string>
+
+</resources>
